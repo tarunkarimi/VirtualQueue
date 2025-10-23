@@ -6,4 +6,5 @@ git clone https://github.com/tarunkarimi/MyPortFolio.git
 ```
 
 2. **Start the development server **
-   Click on Go live which is present bottom right on your vscode
+ 
+Click on Go live which is present bottom right on your vscode
