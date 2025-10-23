@@ -3,8 +3,9 @@
 1. **Clone the repository**
 ```bash
 git clone https://github.com/tarunkarimi/MyPortFolio.git
+cd MyPortFolio
 ```
 
 2. Start the development server
- 
-   Click on Go live which is present bottom right on your vscode
+``` bash
+npm start
